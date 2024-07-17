@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohit Ahlawat
-- 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently data handling
-- 💞️ I’m looking to collaborate on AI development
+- 👀 I’m Aspiring Backend developer seeking opportunities to leverage my software engineering.
+- 🌱 I’m currently mastering javaScript,node.js and react.
+- 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me +917206783598 /ahlawatmohit652@gmail.com
 
 <!---
