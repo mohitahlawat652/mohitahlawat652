@@ -3,6 +3,7 @@
 - 🌱 I’m currently mastering javaScript,node.js and react.
 - 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me +917206783598 /ahlawatmohit652@gmail.com
+- 👋 I'm passionate about solving real-world problems through technology. With a strong foundation in software engineering and backend development, I thrive on creating efficient, scalable solutions.
 
 <!---
 mohitahlawat652/mohitahlawat652 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
