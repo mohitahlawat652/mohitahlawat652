@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohit Ahlawat
 - 👀 I’m Aspiring Data Engineer.
-- 🌱 I’m currently machine learning.
+- 🌱 I’m currently interested in machine learning.
 - 💞️ I’m looking to collaborate on innovative projects.
 - 📫 How to reach me ahlawatmohit652@gmail.com
 - 👋 I'm passionate about solving real-world problems through technology. 
